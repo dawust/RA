@@ -1,5 +1,0 @@
-1 KiB * y^64 = 128MiB
-
-y = e^(log(128MiB / 1KiB)/64)
-
-
